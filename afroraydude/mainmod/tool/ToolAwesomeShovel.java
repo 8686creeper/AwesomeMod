@@ -13,6 +13,6 @@ public class ToolAwesomeShovel extends ItemSpade {
 	}
 	@SideOnly(Side.CLIENT)
 	public void registerIcons(IconRegister par1IconRegister) {
-		this.itemIcon = par1IconRegister.registerIcon("afroraydude:awesomeshovel");
+		this.itemIcon = par1IconRegister.registerIcon("afroraydude:awesomeshov");
 	}
 }
