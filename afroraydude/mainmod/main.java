@@ -27,7 +27,7 @@ import cpw.mods.fml.common.network.NetworkMod;
 import cpw.mods.fml.common.registry.GameRegistry;
 import cpw.mods.fml.common.registry.LanguageRegistry;
 
-@Mod(modid = "AwesomeMod", name = "Be Awesome", version = "Alpha 1")
+@Mod(modid = "AwesomeMod", name = "Awesome Mod", version = "Alpha 1")
 
 @NetworkMod(clientSideRequired = true, serverSideRequired = false)
 
