@@ -1,9 +1,11 @@
-fuzzy-octo-robot
+AwesomeMod
 ===============
 Description And Extra Info
 ===============
 
-"fuzzy-octo-robot" is afroraydude's codename for his Awesome Mod
+AwesomeMod...
+
+it is a mod that currenty adds new stuff.
 
 This mod is going to replace YABM and add this stuff:
 
